@@ -1,0 +1,2 @@
+# auroraroyalhotel
+Static site: auroraroyalhotel
