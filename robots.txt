@@ -1,0 +1,20 @@
+# robots.txt for https://example.com/site-17-auroraroyalhotel/
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Sitemaps
+Sitemap: https://example.com/site-17-auroraroyalhotel/sitemap.xml
+Host: https://example.com/site-17-auroraroyalhotel/
