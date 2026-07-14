@@ -1,0 +1,9 @@
+/* TEAM */
+Hospitality: Aurora Royal Hotel team
+Concierge: 24/7
+Location: Vancouver, CA
+
+/* SITE */
+Last update: 2026-07-14
+Language: English
+Standards: HTML5, CSS3, Schema.org
