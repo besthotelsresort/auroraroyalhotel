@@ -1,0 +1,4 @@
+Contact: mailto:security@auroraroyalhotel.example
+Expires: 2027-07-14T08:59:42.400Z
+Preferred-Languages: en, de, fr
+Canonical: https://example.com/.well-known/security.txt
