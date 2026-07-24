@@ -11,7 +11,7 @@ const SITE = {
   glyph: "♛",
   tagline: "Canada's independent hotel review authority since 2011",
   established: 2011,
-  email: "concierge@auroraroyalhotel.onrender.com",
+  email: "info@crystalgrovemanor.online",
   phone: "+46 73 474 52 04",
   city: "Toronto, Ontario",
   domain: "auroraroyalhotel.onrender.com",
